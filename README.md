@@ -1,4 +1,10 @@
-# PlaceLocator
+# Currency Convertor
+
+A simple currency convertor application to convert one currency value to another currency value.
+
+User can convert the currencies between Indian Rupee(INR), American Dollar(USD), Japanese Yuen(JPY),EURO(EUR),Canadian Dollar(CND)
+
+workflow -- select the respective currency types and enter the value and submit it.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
